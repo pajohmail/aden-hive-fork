@@ -1,0 +1,5 @@
+exports/
+docs/
+.agent-builder-sessions/
+.pytest_cache/
+**/__pycache__/
